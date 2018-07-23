@@ -7,3 +7,8 @@ body {
 .page-header {
   background-color: #bada55;
 }
+
+.promo {
+  display: inline-block;
+  background-color: #fff;
+}
